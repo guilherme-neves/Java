@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\guilherme.ramos\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js dev
+
+PATH: 
+  C:\Users\guilherme.ramos\Documents\cmder\bin;C:\Users\guilherme.ramos\Documents\cmder\vendor\git-for-windows\cmd;C:\Users\guilherme.ramos\Documents\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Users\guilherme.ramos\Documents\cmder\vendor\conemu-maximus5;C:\Users\guilherme.ramos\Documents\cmder\vendor\conemu-maximus5\ConEmu;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\OpenVPN\bin;C:\WINDOWS\System32\OpenSSH\;C:\Users\guilherme.ramos\AppData\Local\Microsoft\WindowsApps;C:\Users\guilherme.ramos\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Sophos\Sophos SSL VPN Client\bin;C:\Users\guilherme.ramos\AppData\Local\Programs\Fiddler;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\Users\guilherme.ramos\Documents\cmder\vendor\git-for-windows\usr\bin;C:\Users\guilherme.ramos\Documents\cmder\vendor\git-for-windows\usr\share\vim\vim74;C:\Users\guilherme.ramos\Documents\cmder\
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.10.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "C:\\Users\\guilherme.ramos\\Documents\\Projetos\\spring\\gestor"
+      at new MessageError (C:\Users\guilherme.ramos\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:186:110)
+      at C:\Users\guilherme.ramos\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (C:\Users\guilherme.ramos\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:98:30)
+      at C:\Users\guilherme.ramos\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:109:13
+      at <anonymous>
